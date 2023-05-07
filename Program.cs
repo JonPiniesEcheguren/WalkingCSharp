@@ -49,4 +49,3 @@ Console.WriteLine($"{course4Name}\t\t{course4Grade}\t\t{course4Credit}");
 Console.WriteLine($"{course5Name}\t\t\t{course5Grade}\t\t{course5Credit}");
 
 Console.WriteLine($"\nFinal GPA:\t\t\t{leadingDigit}.{trailingDigits}");
-
