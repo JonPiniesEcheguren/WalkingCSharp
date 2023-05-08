@@ -8,5 +8,6 @@ Link al curso C# de Microsoft Learn y a sus ejercicios: https://learn.microsoft.
 
 ### Instrucciones de instalación:
 
+- Versión de .NET: net 7.0
 - Clonar el repositorio:
   - `git clone https://github.com/JonPiniesEcheguren/WalkingCSharp.git`
